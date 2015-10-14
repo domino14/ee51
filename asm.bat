@@ -1,0 +1,9 @@
+asm86 display.asm ep db m1
+asm86 main.asm ep db m1 
+asm86 segtable.asm ep db m1 
+asm86 timer.asm ep db m1 
+asm86 keypad.asm ep db m1
+asm86 serial.asm ep db m1
+asm86 serqueue.asm ep db m1
+asm86 userint.asm ep db m1 
+asm86 motors.asm ep db m1
